@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola 👋, soy **Martín**
+#### *Frontend Developer*
+![Frontend Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--iiE-sG6R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/an073jdwgkc1ztij8sj7.png)
 
-<!--
-**martinfyic/martinfyic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A principios del 2022 tomé la decisión de salir de mi zona de confort, y comenzar en el mundo IT.
+Estoy estudiando **Desarrollo Full Stack** en [Coderhouse](https://www.coderhouse.com.uy/online/carrera-online-desarrollo-fullstack)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: **JS** / **HTML** / **CSS**
+
+- 🌱 Estoy aprendiendo **REACT JS** 
+- 📫 Cómo contactarme: martin.f.yic@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/martinfyic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/martin-ferreira-yic//)  
+
+
