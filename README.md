@@ -6,10 +6,9 @@ A principios del 2022 tomé la decisión de salir de mi zona de confort, y comen
 Estoy estudiando **Desarrollo Full Stack** en [Coderhouse](https://www.coderhouse.com.uy/online/carrera-online-desarrollo-fullstack)
 
 
-Habilidades: **JS** / **HTML** / **CSS**
+Habilidades y Tecnologías: **HTML** / **CSS** / **JS** / **REACT JS**
 
-- 🌱 Estoy aprendiendo **REACT JS** 
-- 📫 Cómo contactarme: martin.f.yic@gmail.com 
-
+- 🌱 Estoy aprendiendo **NODE JS** 
+- 📫 Cómo contactarme: martin.f.yic@gmail.com
 
 
