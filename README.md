@@ -9,8 +9,6 @@ En la actualidad estoy estudiando la carrera de **Desarrollo Full Stack (MERN)**
 
 Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier feedback, ya que eso ayudará a seguir mi crecimiento personal.
 
----
-
 ## Habilidades y Tecnologías:
 
 ![HTML5](https://www.svgrepo.com/show/373669/html.svg) ![CSS3](https://www.svgrepo.com/show/373535/css.svg) ![Sass](https://www.svgrepo.com/show/374061/sass.svg) ![JavaScript](https://www.svgrepo.com/show/355081/js.svg) ![React Js](https://www.svgrepo.com/show/374032/reactjs.svg) ![Git](https://www.svgrepo.com/show/373623/git.svg) ![GitHub](https://www.svgrepo.com/show/341847/github.svg) ![npm](https://www.svgrepo.com/show/355146/npm.svg)
