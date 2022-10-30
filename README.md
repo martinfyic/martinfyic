@@ -11,12 +11,16 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 
 ## Habilidades y Tecnologías:
 
-![HTML5](https://www.svgrepo.com/show/373669/html.svg) ![CSS3](https://www.svgrepo.com/show/373535/css.svg) ![Sass](https://www.svgrepo.com/show/374061/sass.svg) ![JavaScript](https://www.svgrepo.com/show/355081/js.svg) ![React Js](https://www.svgrepo.com/show/374032/reactjs.svg) ![Git](https://www.svgrepo.com/show/373623/git.svg) ![GitHub](https://www.svgrepo.com/show/341847/github.svg) ![npm](https://www.svgrepo.com/show/355146/npm.svg)
+![HTML5](https://www.svgrepo.com/show/373669/html.svg) ![CSS3](https://www.svgrepo.com/show/373535/css.svg) ![JavaScript](https://www.svgrepo.com/show/355081/js.svg) ![React Js](https://www.svgrepo.com/show/374032/reactjs.svg) ![Git](https://www.svgrepo.com/show/373623/git.svg) ![npm](https://www.svgrepo.com/show/355146/npm.svg)
 
 ### En Curos:
 
 ![NODE](https://www.svgrepo.com/show/378837/node.svg) ![TypeScript](https://www.svgrepo.com/show/374146/typescript-official.svg)
 
----
 
--   📬 Contactame: martin.f.yic@gmail.com
+## Contactame: 
+
+- email: martin.f.yic@gmail.com
+
+
+- linkedin: www.linkedin.com/in/martin-ferreira-yic
