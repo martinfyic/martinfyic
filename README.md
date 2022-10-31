@@ -11,11 +11,20 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 
 ## Habilidades y Tecnologías:
 
-![HTML5](https://www.svgrepo.com/show/373669/html.svg) ![CSS3](https://www.svgrepo.com/show/373535/css.svg) ![JavaScript](https://www.svgrepo.com/show/355081/js.svg) ![React Js](https://www.svgrepo.com/show/374032/reactjs.svg) ![Git](https://www.svgrepo.com/show/373623/git.svg) ![npm](https://www.svgrepo.com/show/355146/npm.svg)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/Web/HTML)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48">](https://getbootstrap.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48">](https://tailwindcss.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
+
 
 ### En Curos:
 
-![NODE](https://www.svgrepo.com/show/378837/node.svg) ![TypeScript](https://www.svgrepo.com/show/374146/typescript-official.svg)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="48">](https://nodejs.org/en/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="48">](https://www.typescriptlang.org/)
 
 
 ## Contactame: 
