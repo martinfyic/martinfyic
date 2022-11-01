@@ -12,8 +12,8 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 ## Habilidades y Tecnologías:
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/Web/HTML)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://www.w3schools.com/css/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://www.javascript.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48">](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48">](https://es.reactjs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="48">](https://getbootstrap.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48">](https://tailwindcss.com/)
