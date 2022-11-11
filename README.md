@@ -26,6 +26,11 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="48">](https://nodejs.org/en/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="48">](https://www.typescriptlang.org/)
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contactame: 
 
@@ -33,3 +38,7 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 
 
 - linkedin: www.linkedin.com/in/martin-ferreira-yic
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
