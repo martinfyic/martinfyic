@@ -9,7 +9,7 @@ En la actualidad estoy estudiando la carrera de **Desarrollo Full Stack (MERN)**
 
 Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier feedback, ya que eso ayudará a seguir mi crecimiento personal.
 
-## Habilidades y Tecnologías:
+## 👨🏻‍💻 Habilidades y Tecnologías:
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/Web/HTML)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -21,7 +21,7 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
 
 
-### En Curos:
+### 📚 En Curos:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="48">](https://nodejs.org/en/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="48">](https://www.typescriptlang.org/)
@@ -32,7 +32,7 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contactame: 
+## 📬 Contactame: 
 
 - email: martin.f.yic@gmail.com
 
