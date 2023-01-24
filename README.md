@@ -1,11 +1,8 @@
 # Hola 👋, soy **Martín Ferreira Yic**
 
-![Frontend Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--iiE-sG6R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/an073jdwgkc1ztij8sj7.png)
+![Frontend Developer](https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png)
 
-En el 2021 tome la decisión de salir de mi zona de confort, y comenzar en el mundo IT.
-En este nuevo camino de mi etapa profesional he aprendido que el desarrollo web es algo que me apasiona, a lo cual le dedico gran parte de mi tiempo libre, para continuar aprendiendo nuevas tecnologías y como hobbie.
-
-En la actualidad estoy estudiando la carrera de **Desarrollo Full Stack (MERN)** en [Coderhouse](https://www.coderhouse.com.uy/online/carrera-online-desarrollo-fullstack)
+Soy una persona introvertida y leal que siempre trata de hacer lo correcto. Mi pasión es el desarrollo web y actualmente estoy estudiando la carrera de desarrollador fullstack, especializado en tecnologías MERN (MongoDB, Express, React y Node.js) en [Coderhouse](https://www.coderhouse.com.uy/online/carrera-online-desarrollo-fullstack).
 
 Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier feedback, ya que eso ayudará a seguir mi crecimiento personal.
 
