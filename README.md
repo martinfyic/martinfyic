@@ -6,7 +6,7 @@ Soy una persona introvertida y leal que siempre trata de hacer lo correcto. Mi p
 
 Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier feedback, ya que eso ayudará a seguir mi crecimiento personal.
 
-## 👨🏻‍💻 Habilidades y Tecnologías:
+## 👨🏻‍💻 Tecnologías:
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="48">](https://developer.mozilla.org/es/docs/Web/HTML)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48">](https://developer.mozilla.org/es/docs/Web/CSS)
@@ -17,23 +17,17 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 [<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48">](https://sass-lang.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48">](https://git-scm.com/)
 
-
 ### 📚 En Curos:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" width="48">](https://nodejs.org/en/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="48">](https://www.typescriptlang.org/)
 
-## 📊 GitHub Stats:
+<!-- ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
-## 📬 Contactame: 
+## 📬 Contactame:
 
 - email: martin.f.yic@gmail.com
 
-
-- linkedin: www.linkedin.com/in/martin-ferreira-yic
-
-## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- linkedin: [www.linkedin.com/in/martin-ferreira-yic](www.linkedin.com/in/martin-ferreira-yic)
