@@ -31,6 +31,5 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 
 ## 📬 Contactame:
 
-- email: martin.f.yic@gmail.com
-
-- linkedin: [www.linkedin.com/in/martin-ferreira-yic](www.linkedin.com/in/martin-ferreira-yic)
+[![portfolio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martin.f.yic@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-ferreira-yic)
