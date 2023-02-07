@@ -25,9 +25,9 @@ Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier f
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="48">](https://www.typescriptlang.org/)
 
-<!-- ## 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📬 Contactame:
 
