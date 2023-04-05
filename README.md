@@ -4,7 +4,7 @@
 
 ![Frontend Web Developer MERN stack](https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png)
 
-Soy una persona introvertida y leal que siempre trata de hacer lo correcto. Mi pasión es el desarrollo web y actualmente estoy estudiando la carrera de desarrollador fullstack, especializado en tecnologías MERN (MongoDB, Express, React y Node.js) en [Coderhouse](https://www.coderhouse.com.uy/online/carrera-online-desarrollo-fullstack).
+Soy una persona introvertida y leal que siempre trata de hacer lo correcto. Mi pasión es el desarrollo web y actualmente estoy estudiando la carrera de desarrollador fullstack, especializado en tecnologías stack MERN en [Coderhouse](https://www.coderhouse.com.uy/online/carrera-online-desarrollo-fullstack).
 
 Espero encuentres algún repositorio de tu agrado y apreciaria mucho cualquier feedback, ya que eso ayudará a seguir mi crecimiento personal.
 
