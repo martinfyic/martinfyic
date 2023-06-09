@@ -27,9 +27,9 @@ Mi pasión por el desarrollo web me ha llevado a convertirme en un desarrollador
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)
 
-<!-- ## 📊 GitHub Stats:
+ ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📬 Contactame:
 
