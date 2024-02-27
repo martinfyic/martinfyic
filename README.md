@@ -25,7 +25,7 @@ Mi pasión por el desarrollo web me ha llevado a convertirme en un desarrollador
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/yarn-cb3837?style=for-the-badge&logo=yarn&logoColor=white)
+![YARN](https://img.shields.io/badge/yarn-2986cc?style=for-the-badge&logo=yarn&logoColor=white)
 
  ## 📊 GitHub Stats:
 
