@@ -8,28 +8,11 @@ Mi pasión por el desarrollo web me ha llevado a convertirme en un desarrollador
 
 ## 👨🏻‍💻 Tecnologías:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJs](https://img.shields.io/badge/Next.Js-333333?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-cb3837?style=for-the-badge&logo=npm&logoColor=white)
-![YARN](https://img.shields.io/badge/yarn-2986cc?style=for-the-badge&logo=yarn&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,react,nextjs,nodejs,express,postgres,prisma,mongodb,git,docker)](https://skillicons.dev)
 
  ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinfyic&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📬 Contactame:
 
