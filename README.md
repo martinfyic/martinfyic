@@ -8,7 +8,7 @@ Mi pasión por el desarrollo web me ha llevado a convertirme en un desarrollador
 
 ## 👨🏻‍💻 Tecnologías:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,react,nextjs,nodejs,express,postgres,prisma,mongodb,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,react,nextjs,nodejs,express,nestjs,postgres,prisma,mongodb,git,docker)](https://skillicons.dev)
 
  ## 📊 GitHub Stats:
 
