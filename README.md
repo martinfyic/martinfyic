@@ -2,9 +2,11 @@
 
 # mi nombre es **Martín Ferreira Yic**
 
-![Frontend Web Developer MERN stack](https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png)
+Soy un desarrollador web con una fuerte pasión por la tecnología y la programación. Me especializo en el desarrollo Full Stack con JavaScript, tanto en frontend como en backend. A lo largo de mi formación y experiencia, he adquirido un amplio conocimiento en diversas tecnologías y frameworks, incluyendo Express, React.js, Node.js, Next.js, PostgreSQL, Nest.js, Prisma, Docker.
 
-Mi pasión por el desarrollo web me ha llevado a convertirme en un desarrollador Full Stack especializado en tecnologías MERN (MongoDB, Express, React y Node.js). A través de mi experiencia y formación en Coderhouse, he adquirido un sólido conocimiento en la creación de aplicaciones web dinámicas y escalables. En mi perfil de GitHub, puedes encontrar ejemplos de proyectos en los que he trabajado, demostrando mi habilidad para utilizar estas tecnologías de manera efectiva. Soy un profesional comprometido con la excelencia y estoy constantemente buscando oportunidades para aprender y crecer en la industria de IT. Mi objetivo es seguir mejorando mis habilidades técnicas y colaborar en proyectos desafiantes que impulsen la innovación en el campo del desarrollo web.
+En mi perfil de GitHub, puedes encontrar una variedad de proyectos que reflejan mi capacidad para crear aplicaciones web dinámicas y escalables. Estos proyectos demuestran mi habilidad para trabajar con diferentes tecnologías y mi compromiso con la excelencia en el desarrollo de software.
+
+Estoy constantemente buscando oportunidades para aprender y crecer en la industria de IT, y mi objetivo es seguir mejorando mis habilidades técnicas.
 
 ## 👨🏻‍💻 Tecnologías:
 
