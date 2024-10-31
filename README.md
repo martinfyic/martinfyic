@@ -10,7 +10,7 @@ Estoy constantemente buscando oportunidades para aprender y crecer en la industr
 
 ## 👨🏻‍💻 Tecnologías:
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,react,nextjs,nodejs,express,nestjs,postgres,prisma,mongodb,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,tailwind,astro,react,nextjs,nodejs,express,nestjs,postgres,prisma,mongodb,git,docker)](https://skillicons.dev)
 
  ## 📊 GitHub Stats:
 
